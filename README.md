@@ -21,7 +21,7 @@ Logo no Kotlintuberfest iremos popular [o repositório do curso](https://github.
 
 Gostou da idéia? Quer ajudar em nosso projeto? Então se liga! Realize o *clone* do projeto [neste repositório](https://github.com/Kotlinautas/curso-kotlinautas), crie uma *branch*, adicione sua contribuição e, depois, submeta um *pull request* (*PR*). Caso tenha dúvidas sobre este processo, recomendamos este [maravilhoso artigo](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) da nossa querida Letícia Leonardo (nossa miga @levxyca, não confundir com @dii_lua).
 
-O seu *PR* será analisado por pessoas moderadoras do repositório, as quais poderão aceitar seu *PR*, devolver o mesmo com sugetões de melhoria ou recusar o mesmo. Em breve estaremos compartilhando um documento descrevendo as boas práticas de criação de exercícios que nortearão as decições das pessoas moderadoras.
+O seu *PR* será analisado por pessoas moderadoras do repositório, as quais poderão aceitar seu *PR*, devolver o mesmo com sugestões de melhoria ou recusa-lo. Em breve estaremos compartilhando um documento descrevendo as boas práticas de criação dos exercícios que nortearão as desições das pessoas moderadoras.
 
 ## Help!
 
