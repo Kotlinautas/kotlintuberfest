@@ -15,11 +15,11 @@ O material de algoritmos qual pretendemos criar juntos com a comunidade será co
     * o esqueleto do código a ser criado;
     * testes unitários para validar a solução proposta.
 
-Logo no Kotlintuberfest iremos popular [o repositório do curso](https://github.com/Kotlinautas/curso-kotlinautas) com exercícios de programação! Sabe aqueles exercícios que você utilizou para aprender a programar? É o momento de tirar a poeira de cima deles e contribuir com o nosso projeto! :)
+Logo no Kotlintuberfest iremos popular [o repositório do curso](https://github.com/Kotlinautas/curso-algoritmos-kotlinautas) com exercícios de programação! Sabe aqueles exercícios que você utilizou para aprender a programar? É o momento de tirar a poeira de cima deles e contribuir com o nosso projeto! :)
 
 ## Como contribuir
 
-Gostou da idéia? Quer ajudar em nosso projeto? Então se liga! Realize o *clone* do projeto [neste repositório](https://github.com/Kotlinautas/curso-kotlinautas), crie uma *branch*, adicione sua contribuição e, depois, submeta um *pull request* (*PR*). Caso tenha dúvidas sobre este processo, recomendamos este [maravilhoso artigo](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) da nossa querida Letícia Leonardo (nossa miga @levxyca, não confundir com @dii_lua).
+Gostou da idéia? Quer ajudar em nosso projeto? Então se liga! Realize o *clone* do projeto [neste repositório](https://github.com/Kotlinautas/curso-algoritmos-kotlinautas), crie uma *branch*, adicione sua contribuição e, depois, submeta um *pull request* (*PR*). Caso tenha dúvidas sobre este processo, recomendamos este [maravilhoso artigo](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) da nossa querida Letícia Leonardo (nossa miga @levxyca, não confundir com @dii_lua).
 
 O seu *PR* será analisado por pessoas moderadoras do repositório, as quais poderão aceitar seu *PR*, devolver o mesmo com sugestões de melhoria ou recusa-lo. Em breve estaremos compartilhando um documento descrevendo as boas práticas de criação dos exercícios que nortearão as desições das pessoas moderadoras.
 
